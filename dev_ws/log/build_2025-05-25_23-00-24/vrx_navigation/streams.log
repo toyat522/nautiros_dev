@@ -1,0 +1,23 @@
+[0.014s] Invoking command in '/home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation -- -j8 -l8
+[0.063s] Invoked command in '/home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation -- -j8 -l8
+[0.064s] Invoking command in '/home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation
+[0.073s] -- Install configuration: ""
+[0.073s] -- Execute custom install script
+[0.074s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/ament_index/resource_index/package_run_dependencies/vrx_navigation
+[0.074s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/ament_index/resource_index/parent_prefix_path/vrx_navigation
+[0.074s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/environment/ament_prefix_path.sh
+[0.075s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/environment/ament_prefix_path.dsv
+[0.075s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/environment/path.sh
+[0.075s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/environment/path.dsv
+[0.075s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/local_setup.bash
+[0.076s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/local_setup.sh
+[0.077s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/local_setup.zsh
+[0.077s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/local_setup.dsv
+[0.077s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/package.dsv
+[0.084s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/ament_index/resource_index/packages/vrx_navigation
+[0.085s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.085s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.085s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/cmake/vrx_navigationConfig.cmake
+[0.086s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/cmake/vrx_navigationConfig-version.cmake
+[0.086s] -- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/package.xml
+[0.120s] Invoked command in '/home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation

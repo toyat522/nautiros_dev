@@ -1,0 +1,19 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/ament_index/resource_index/package_run_dependencies/vrx_perception
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/ament_index/resource_index/parent_prefix_path/vrx_perception
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/environment/path.sh
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/environment/path.dsv
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/local_setup.bash
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/local_setup.sh
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/local_setup.zsh
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/local_setup.dsv
+-- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/package.dsv
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/ament_index/resource_index/packages/vrx_perception
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/cmake/vrx_perceptionConfig.cmake
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/cmake/vrx_perceptionConfig-version.cmake
+-- Up-to-date symlink: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/package.xml

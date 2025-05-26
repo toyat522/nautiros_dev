@@ -1,0 +1,32 @@
+[0.013s] Invoking command in '/home/toyat/dev/vrx_ros2/vrx_ws/build/vrx_ros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/toyat/dev/vrx_ros2/vrx_ws/build/vrx_ros -- -j8 -l8
+[0.127s] [ 25%] [32mBuilding CXX object CMakeFiles/optical_frame_publisher.dir/src/optical_frame_publisher.cc.o[0m
+[0.127s] [ 50%] [32mBuilding CXX object CMakeFiles/pose_tf_broadcaster.dir/src/pose_tf_broadcaster.cc.o[0m
+[7.883s] [ 75%] [32m[1mLinking CXX executable pose_tf_broadcaster[0m
+[8.218s] [ 75%] Built target pose_tf_broadcaster
+[10.831s] [100%] [32m[1mLinking CXX executable optical_frame_publisher[0m
+[11.280s] [100%] Built target optical_frame_publisher
+[11.293s] Invoked command in '/home/toyat/dev/vrx_ros2/vrx_ws/build/vrx_ros' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/toyat/dev/vrx_ros2/vrx_ws/build/vrx_ros -- -j8 -l8
+[11.295s] Invoking command in '/home/toyat/dev/vrx_ros2/vrx_ws/build/vrx_ros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/toyat/dev/vrx_ros2/vrx_ws/build/vrx_ros
+[11.304s] -- Install configuration: ""
+[11.304s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/lib/vrx_ros/optical_frame_publisher
+[11.312s] -- Set non-toolchain portion of runtime path of "/home/toyat/dev/vrx_ros2/vrx_ws/install/lib/vrx_ros/optical_frame_publisher" to ""
+[11.312s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/lib/vrx_ros/pose_tf_broadcaster
+[11.318s] -- Set non-toolchain portion of runtime path of "/home/toyat/dev/vrx_ros2/vrx_ws/install/lib/vrx_ros/pose_tf_broadcaster" to ""
+[11.318s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/vrx_ros/launch
+[11.319s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/vrx_ros/launch/monitor_sim.py
+[11.319s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/ament_index/resource_index/package_run_dependencies/vrx_ros
+[11.319s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/ament_index/resource_index/parent_prefix_path/vrx_ros
+[11.319s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/vrx_ros/environment/ament_prefix_path.sh
+[11.319s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/vrx_ros/environment/ament_prefix_path.dsv
+[11.320s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/vrx_ros/environment/path.sh
+[11.320s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/vrx_ros/environment/path.dsv
+[11.320s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/vrx_ros/local_setup.bash
+[11.321s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/vrx_ros/local_setup.sh
+[11.321s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/vrx_ros/local_setup.zsh
+[11.321s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/vrx_ros/local_setup.dsv
+[11.321s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/vrx_ros/package.dsv
+[11.322s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/ament_index/resource_index/packages/vrx_ros
+[11.322s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/vrx_ros/cmake/vrx_rosConfig.cmake
+[11.322s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/vrx_ros/cmake/vrx_rosConfig-version.cmake
+[11.323s] -- Installing: /home/toyat/dev/vrx_ros2/vrx_ws/install/share/vrx_ros/package.xml
+[11.326s] Invoked command in '/home/toyat/dev/vrx_ros2/vrx_ws/build/vrx_ros' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/toyat/dev/vrx_ros2/vrx_ws/build/vrx_ros

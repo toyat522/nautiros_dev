@@ -1,0 +1,5 @@
+[0.017s] Invoking command in '/home/toyat/dev/vrx_ros2/vrx_ws/build/vrx_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/toyat/.local/bin/cmake /home/toyat/dev/vrx_ros2/vrx_ws/src/vrx/vrx_urdf/vrx_gazebo -DCMAKE_INSTALL_PREFIX=/home/toyat/dev/vrx_ros2/vrx_ws/install
+[0.135s] Traceback (most recent call last):
+[0.136s]   File "/home/toyat/.local/bin/cmake", line 5, in <module>
+[0.136s]     from cmake import cmake
+[0.136s] ModuleNotFoundError: No module named 'cmake'

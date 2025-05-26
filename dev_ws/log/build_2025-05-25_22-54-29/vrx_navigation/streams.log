@@ -1,0 +1,53 @@
+[0.012s] Invoking command in '/home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/toyat/dev/vrx_ros2/dev_ws/src/vrx_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation
+[0.124s] -- The C compiler identification is GNU 13.3.0
+[0.235s] -- The CXX compiler identification is GNU 13.3.0
+[0.262s] -- Detecting C compiler ABI info
+[0.421s] -- Detecting C compiler ABI info - done
+[0.436s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.437s] -- Detecting C compile features
+[0.438s] -- Detecting C compile features - done
+[0.449s] -- Detecting CXX compiler ABI info
+[0.605s] -- Detecting CXX compiler ABI info - done
+[0.620s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.621s] -- Detecting CXX compile features
+[0.622s] -- Detecting CXX compile features - done
+[0.629s] -- Found ament_cmake_auto: 2.5.4 (/opt/ros/jazzy/share/ament_cmake_auto/cmake)
+[0.798s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.879s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.090s] -- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.108s] -- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.128s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.149s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.242s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.246s] -- Found rmw_fastrtps_cpp: 8.4.2 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.374s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.435s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.479s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.564s] [0mIn this package, headers install destination is set to `include` by ament_auto_package. It is recommended to install `include/vrx_navigation` instead and will be the default behavior of ament_auto_package from ROS 2 Kilted Kaiju. On distributions before Kilted, ament_auto_package behaves the same way when you use USE_SCOPED_HEADER_INSTALL_DIR option.[0m
+[1.569s] -- Configuring done (1.5s)
+[1.573s] -- Generating done (0.0s)
+[1.575s] -- Build files have been written to: /home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation
+[1.585s] Invoked command in '/home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/toyat/dev/vrx_ros2/dev_ws/src/vrx_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation
+[1.586s] Invoking command in '/home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation -- -j8 -l8
+[1.636s] Invoked command in '/home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation -- -j8 -l8
+[1.637s] Invoking command in '/home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation
+[1.646s] -- Install configuration: ""
+[1.647s] -- Execute custom install script
+[1.648s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/ament_index/resource_index/package_run_dependencies/vrx_navigation
+[1.661s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/ament_index/resource_index/parent_prefix_path/vrx_navigation
+[1.674s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/environment/ament_prefix_path.sh
+[1.686s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/environment/ament_prefix_path.dsv
+[1.699s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/environment/path.sh
+[1.711s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/environment/path.dsv
+[1.723s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/local_setup.bash
+[1.734s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/local_setup.sh
+[1.745s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/local_setup.zsh
+[1.756s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/local_setup.dsv
+[1.766s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/package.dsv
+[1.776s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/ament_index/resource_index/packages/vrx_navigation
+[1.786s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.797s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.807s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/cmake/vrx_navigationConfig.cmake
+[1.816s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/cmake/vrx_navigationConfig-version.cmake
+[1.826s] -- Symlinking: /home/toyat/dev/vrx_ros2/dev_ws/install/vrx_navigation/share/vrx_navigation/package.xml
+[1.873s] Invoked command in '/home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/toyat/dev/vrx_ros2/dev_ws/build/vrx_navigation

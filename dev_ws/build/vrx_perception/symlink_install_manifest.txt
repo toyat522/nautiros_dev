@@ -1,0 +1,17 @@
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/ament_index/resource_index/package_run_dependencies/vrx_perception
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/ament_index/resource_index/parent_prefix_path/vrx_perception
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/environment/ament_prefix_path.sh
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/environment/ament_prefix_path.dsv
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/environment/path.sh
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/environment/path.dsv
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/local_setup.bash
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/local_setup.sh
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/local_setup.zsh
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/local_setup.dsv
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/package.dsv
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/ament_index/resource_index/packages/vrx_perception
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/cmake/ament_cmake_export_dependencies-extras.cmake
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/cmake/ament_cmake_export_include_directories-extras.cmake
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/cmake/vrx_perceptionConfig.cmake
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/cmake/vrx_perceptionConfig-version.cmake
+/home/toyat/dev/vrx_ros2/dev_ws/install/vrx_perception/share/vrx_perception/package.xml
