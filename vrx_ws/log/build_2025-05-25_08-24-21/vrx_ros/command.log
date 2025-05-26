@@ -1,1 +1,0 @@
-Invoking command in '/home/toyat/dev/vrx_ros2/vrx_ws/build/vrx_ros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/toyat/.local/bin/cmake /home/toyat/dev/vrx_ros2/vrx_ws/src/vrx/vrx_ros -DCMAKE_INSTALL_PREFIX=/home/toyat/dev/vrx_ros2/vrx_ws/install
