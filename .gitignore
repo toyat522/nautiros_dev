@@ -33,7 +33,6 @@ lib/
 metadata.yaml
 COLCON_IGNORE
 CATKIN_IGNORE
-bag/
 
 # IDE related
 .vscode
