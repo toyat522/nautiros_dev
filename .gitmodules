@@ -1,3 +1,6 @@
 [submodule "vrx_ws/src/vrx"]
 	path = vrx_ws/src/vrx
 	url = git@github.com:osrf/vrx.git
+[submodule "dev_ws/src/nautiros"]
+	path = dev_ws/src/nautiros
+	url = git@github.com:toyat522/nautiros.git
